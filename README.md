@@ -1,1 +1,1 @@
-this is dhruv's seam carving project
+this is dhruv's seam carving's project
